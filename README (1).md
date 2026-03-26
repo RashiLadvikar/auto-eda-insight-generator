@@ -1,5 +1,6 @@
 # Auto EDA Insight Generator
 
+
 Upload any CSV file and get an automatic data quality analysis — missing value charts, outlier detection, skewness flags, correlation heatmaps, categorical profiling, a numeric statistical summary, a computed quality score, and a plain-English narrative summary — all without writing a single line of analysis code.
 
 ---
