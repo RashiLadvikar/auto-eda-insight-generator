@@ -1,3 +1,5 @@
+**Live Demo → [Click to open app](https://auto-eda-insight-generator.streamlit.app/)**
+
 # Auto EDA Insight Generator
 
 
